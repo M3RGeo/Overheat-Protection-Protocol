@@ -1,5 +1,5 @@
 # Overheat Protection Protocol
- A program to monitor computer temprature and when the computer starts to overheat to shut it down automatically or within a selected time period.
+ A program to monitor computer tempratures and to keep the computer safe from overheating.
 
 # Planned Features
  1. Platform Independance
